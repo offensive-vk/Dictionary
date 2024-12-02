@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       file:
-        description: "File to translate"
+        description: "File"
         required: false
         default: "README.md"
 
@@ -16,6 +16,6 @@ jobs:
     uses: offensive-vk/Assets/.github/workflows/translate.yml@master
     with:
       file: ${{ github.event.inputs.file }}
-      languages: ${{ matrix.language }}
+      language: ${{ matrix.language }}
     secrets:
       BOT_TOKEN: ${{ secrets.BOT_TOKEN }}

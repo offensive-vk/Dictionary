@@ -1,0 +1,11 @@
+name: 🌅 Morning Maintenance
+
+on:
+  workflow_dispatch:
+
+jobs:
+  maintenance:
+    name: Maintain
+    uses: offensive-vk/Assets/.github/workflows/morning.yml@master
+    with:
+      sign: false
