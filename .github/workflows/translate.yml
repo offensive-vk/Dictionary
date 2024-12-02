@@ -1,0 +1,21 @@
+name: 📚 Call Translation Workflow
+
+on:
+  workflow_dispatch:
+    inputs:
+      file:
+        description: "File to translate"
+        required: false
+        default: "README.md"
+
+jobs:
+  trigger:
+    strategy:
+      matrix:
+        language: ['es', 'de', 'ru', 'fr', 'hi', 'zh-CN']
+    uses: offensive-vk/Assets/.github/workflows/translate.yml@master
+    with:
+      file: ${{ github.event.inputs.file }}
+      languages: ${{ matrix.language }}
+    secrets:
+      BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
