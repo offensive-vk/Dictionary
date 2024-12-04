@@ -65,11 +65,11 @@
 
 ## B
 
--   **parte trasera**: todas las operaciones digitales detrás de escena que se necesitan para mantener en funcionamiento la interfaz de un sitio web, como la codificación, el estilo y los complementos.
+-   **extremo trasero**: todas las operaciones digitales detrás de escena que se necesitan para mantener en funcionamiento la interfaz de un sitio web, como la codificación, el estilo y los complementos.
 -   **operador binario**: un operador que toma dos argumentos.
 -   **repetitivo**: Un texto estándar es una colección de fragmentos de código y recursos que se pueden reutilizar para impulsar el desarrollo.
 -   **booleano**: un tipo de datos que tiene uno de dos valores posibles (normalmente indicados como verdadero y falso).
--   **oreja**: Bootstrap es un marco de interfaz de código abierto gratuito para diseñar sitios web y aplicaciones web. Bootstrap incluye plantillas de diseño basadas en HTML y CSS para tipografía, formularios, botones, tablas, navegación, modales y más, además de complementos de JavaScript.
+-   **oreja**: Bootstrap es un marco de interfaz de usuario gratuito y de código abierto para diseñar sitios web y aplicaciones web. Bootstrap incluye plantillas de diseño basadas en HTML y CSS para tipografía, formularios, botones, tablas, navegación, modales y más, además de complementos de JavaScript.
 -   **rama**: un mundo paralelo donde puedes crear confirmaciones sin introducir errores en el código de producción.
 -   **navegador**: el programa que utiliza para acceder a la Web, como Chrome, Firefox o Safari.
 -   **bicho**: un error en el código fuente que hace que un programa produzca resultados inesperados.
@@ -89,7 +89,7 @@
 -   **CMS (Sistema de gestión de contenidos)**: El programa que utiliza para crear y mantener el contenido de su sitio web.
 -   **cohesión**: una medida de qué tan bien funcionan juntas las líneas de código fuente dentro de un módulo.
 -   **comentarios**: En programación de computadoras, un comentario es una explicación o anotación legible por el programador en el código fuente de un programa de computadora. Se agregan con el propósito de hacer que el código fuente sea más fácil de entender para los humanos y, por lo general, los compiladores e intérpretes los ignoran.
--   **comprometerse (VCS)**: una operación que agrupa un conjunto de cambios detrás de un nombre y un número, haciendo que estos cambios formen parte de la revisión principal del repositorio._Ver[VCS](#V)_
+-   **confirmar (VCS)**: una operación que agrupa un conjunto de cambios detrás de un nombre y un número, haciendo que estos cambios formen parte de la revisión principal del repositorio._Ver[VCS](#V)_
 -   **compilador**: un programa que traduce código de computadora escrito en un lenguaje de programación a otro lenguaje.
 -   **componentes**: fragmentos de código independientes y reutilizables que funcionan de forma aislada y devuelven HTML a través de una función de representación._ver[componentes web](#W)_
 -   **constante**: Una constante es un valor que nunca cambiará durante el tiempo de ejecución del programa.
@@ -225,7 +225,7 @@
 -   **red neuronal**: un modelo que, inspirándose en el cerebro, se compone de capas (al menos una de las cuales está oculta) que consisten en unidades o neuronas simples conectadas seguidas de no linealidades.
 -   **neurona**: un nodo en una red neuronal, que normalmente toma múltiples valores de entrada y genera un valor de salida. La neurona calcula el valor de salida aplicando una función de activación (transformación no lineal) a una suma ponderada de valores de entrada.
 -   **nodo**: una unidad básica de una estructura de datos, como una lista vinculada o una estructura de datos de árbol.
--   **Bases de datos NoSQL o NoSQL**: Las bases de datos NoSQL (también conocidas como "no solo SQL") no son tabulares y almacenan datos de manera diferente a las tablas relacionales. Una base de datos NoSQL proporciona un mecanismo para el almacenamiento y recuperación de datos que se modelan en medios distintos de las relaciones tabulares utilizadas en las bases de datos relacionales. Las bases de datos NoSQL vienen en una variedad de tipos según su modelo de datos. Los tipos principales son documento, valor-clave, columna ancha y gráfico.
+-   **Bases de datos NoSQL o NoSQL**: Las bases de datos NoSQL (también conocidas como "no solo SQL") no son tabulares y almacenan datos de manera diferente a las tablas relacionales. Una base de datos NoSQL proporciona un mecanismo para el almacenamiento y la recuperación de datos que se modelan en medios distintos de las relaciones tabulares utilizadas en las bases de datos relacionales. Las bases de datos NoSQL vienen en una variedad de tipos según su modelo de datos. Los tipos principales son documento, valor-clave, columna ancha y gráfico.
 -   **nodo.js**: Node.js es un entorno de ejecución de JavaScript back-end, multiplataforma y de código abierto que se ejecuta en el motor V8 y ejecuta código JavaScript fuera de un navegador web.
 -   **ruido**: cualquier cosa que oscurezca la señal en un conjunto de datos.
 -   **nulo**: un tipo de datos especial que solo puede tener un valor: NULL.
@@ -302,7 +302,7 @@
 -   **enchufe**: un punto final de un enlace de comunicación bidireccional entre dos programas que se ejecutan en la red
 -   **Arquitectura de software**:La arquitectura de software se refiere a las estructuras fundamentales de un sistema de software y la disciplina de crear dichas estructuras y sistemas. Cada estructura comprende elementos de software, relaciones entre ellos y propiedades tanto de los elementos como de las relaciones.
 -   **Ingeniería de software**: es el proceso de analizar las necesidades del usuario y diseñar, construir y probar aplicaciones de usuario final que satisfarán estas necesidades mediante el uso de lenguajes de programación de software.
--   **Integración de software**: La integración de software es el proceso de reunir varios tipos de subsistemas de software para que creen un sistema único unificado. La integración del software puede ser necesaria por varios motivos, como por ejemplo: Migrar de un sistema heredado a un nuevo sistema de base de datos, incluido el almacenamiento de datos basado en la nube.
+-   **Integración de software**: La integración de software es el proceso de reunir varios tipos de subsistemas de software para crear un sistema único unificado. La integración del software puede ser necesaria por varios motivos, como por ejemplo: Migrar de un sistema heredado a un nuevo sistema de base de datos, incluido el almacenamiento de datos basado en la nube.
 -   **Código fuente**: es cualquier colección de código, con o sin comentarios, escrito utilizando un lenguaje de programación legible por humanos, generalmente como texto sin formato.
 -   **SQL (lenguaje de consulta estructurado)**: SQL es un lenguaje de dominio específico utilizado en programación y diseñado para administrar datos almacenados en un sistema de administración de bases de datos relacionales o para el procesamiento de flujos en un sistema de administración de flujos de datos relacionales. Según ANSI (American National Standards Institute), es el lenguaje estándar para los sistemas de gestión de bases de datos relacionales.
 -   **SSL**: SSL significa Capa de sockets seguros. Es un protocolo de seguridad estándar para garantizar que todos los datos transmitidos entre el servidor web y el navegador permanezcan cifrados y, por lo tanto, ilegibles a simple vista. Puedes saber si un sitio web tiene un certificado SSL mirando la dirección web: si la URL comienza con "https", el sitio web es seguro. También verás un símbolo de candado en la barra del navegador.
